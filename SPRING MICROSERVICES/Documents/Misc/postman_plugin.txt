@@ -1,0 +1,9 @@
+Download postman s/w.
+
+In chrome browser --> Customize and control Google chrome --> More Tools --> Extensions --> Get More Extensions --> In 'Chrome web store' --> search the store with 'postman'--> ADD TO CHROME (Postman)
+
+close chrome browser
+
+For more details
+================
+https://www.getpostman.com/docs/introduction
